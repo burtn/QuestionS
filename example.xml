@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+
+<questions set="Biology (Biochemistry)">
+   <question><text>Sharing an electron or pair of electrons between atoms forms a type of bond called a...</text><answer>Covelant</answer></question>
+	<question><text>Ionic bonding occurs when....?</text><answer>Ions with opposite charges attract each other</answer><note>This happpens becuase of the charge on each ion (ions = charged particles)</note></question>
+	<question><text>Water has a slightly positive and a slightly negative charge which is caused by the uneven distribution of electrons throughout the molecule, this makes water a ______ molecule?</text><answer>Polar</answer></question>
+	<question><note>Oxygen has more electons which are negatively charged than hydrogen, as water molecules form a V this makes one end delta - and the other delta +</note></question>
+	<question><text>Water forms _ bonds as the different poles are attracted to each other.</text><answer>Hydrogen</answer><note>Hydrogen bonds are weaker than ionic bonds but when there are many such as in a large body of water they are strong</note></question>
+	<question><text>Water is a substance which is capable of dissolving one or more other substances, therefore it is a __</text><answer>Solvent</answer><note>LIPIDS!!!</note></question>
+	<question><text>Water is a good transport medium because it HAS A LOW VISCOSITY, whats an example of water transporting substances?</text><answer>In the Human Body; Water in blood carres important chemicals to cells</answer></question>
+	<question><text>Water molecules stick together because of their polarity, this is called ____ between molecules</text><answer>Cohesion</answer><note>This is what allows water to be drawn up plant stems</note></question>
+	<question><text>Water has a high _____ tension - this is where molecules at the surface are pulled back towards a body of water :: for example a lake</text><answer>Surface Tension (See Note)</answer><note>This is useful as it can provide a habitat for insects such as the pondskater whose weight can be supported by surface tension</note></question>
+	<question><text>Water has important thermal properties, which one makes it suitable for cooling you down, ie in sweat?</text><answer>The Large Latent Heat Of Vapourisation, this means water requires a large amount of energy in order to change it from a liquid to a vapour state</answer></question>
+	<question><text>Water also has a large latent heat of fusion, this means that water requires....</text><answer>A lot of energy to be removed before it becomes a solid (ice)</answer><note>Water is most dense @ 4 Degrees (Centi) after which it becomes less dense, this means ice can float on liquid water which provides another useful property, animals can survive on the surface of ice providing yet another habitat</note></question>
+	<question><text>Water provides a stable environment which is important for organisms surviving in water, in the oceans for example :: where else is this important?</text><answer>In cells where reactions may take place dissolved in water</answer></question>
+	<question><text>Carbohydrates contain which three elements?</text><answer>CARBON HYDROGEN AND OXYGEN</answer></question>
+	<question><text>Carbohydrates main function are to provide what to cells?</text><answer>Carbohydrates provide energy to cells however they are not as effeicent as lipids in doing so.</answer></question>
+	<question><text>The enzyme carbohydrase breaks down which molecule?</text><answer>Starch</answer></question>
+	<question><text>The cell wall of plants are made from which substance?</text><answer>Cellulose</answer></question>
+	<question><text>Basic molecules which make up carbohydrates are known by what name></text><answer>Monosaccharides</answer></question>
+	<question><text>The general formula for carbohydrates is</text><answer>Cx(h20)y</answer></question>
+	<question><text>Maltose is made from</text><answer>2 Alpha Glucose Molecules</answer></question>
+	<question><text>Sucrose is made from</text><answer>Glucose and FRUCTOSE</answer></question>
+	<question><text>Lactose is made from</text><answer>Glucose and GALATCTOSE</answer></question>
+	<question><text>An Isomer is</text><answer>A molecule with the same atomic structure but a different molecular formula</answer><note>EXAMPLE ALPHA AND BETA GLUCOSE</note></question>
+	<question><text>A condensation reaction involves the removal of a water molecule to form bonds, the opposite of this is</text><answer>Hydrolysys, where water is added in order to break bonds between molecules</answer></question>
+	<question><text>The bonds formed between amino acids are known as </text><answer>Peptide</answer></question>
+	<question><text>Magnesium is a constituent of _____ (Found in Plants)</text><answer>Chlorophyll</answer></question>
+</questions>
